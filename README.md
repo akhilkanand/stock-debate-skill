@@ -12,7 +12,9 @@ Five roles, each a separate subagent that does its own web research:
 
 Every figure is cited with its period and source, and anything not found is marked "not found" rather than guessed. The full transcript is saved as `debate_<Company>_<YYYY-MM-DD>.md` in your working directory.
 
-**See a sample:** [examples/tata-motors.md](examples/tata-motors.md), a trimmed run on Tata Motors that shows the skill handling the 2025 demerger into two listed companies.
+**See a sample:**
+- [examples/tata-motors.md](examples/tata-motors.md): a trimmed run on Tata Motors that shows the skill handling the 2025 demerger into two listed companies.
+- [examples/varun-beverages.md](examples/varun-beverages.md): a trimmed run on Varun Beverages with 4 rebuttal rounds, where a quality business meets a high multiple.
 
 ## Install
 
